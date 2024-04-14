@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 9645655daa169fd44b806e4ebac47794
+  - enabled: 1
+    path: Assets/Scenes/Shaded Plains/SP1.unity
+    guid: d7508cdb94bbbb441a1df1382a5ba68c
+  - enabled: 1
+    path: Assets/Scenes/Shaded Plains/SP2.unity
+    guid: 6aba648ca427f154b853ce80551055e4
+  - enabled: 1
+    path: Assets/Scenes/Shaded Plains/SP3.unity
+    guid: e1601ab671ac1d64d953edd98aca8df6
+  - enabled: 1
+    path: Assets/Scenes/Sullen Settlement/SS1.unity
+    guid: 3fa96e34b852c5343a1594f992cfd2d8
+  - enabled: 1
+    path: Assets/Scenes/Unlit Forest/The High Evergreens/THE1.unity
+    guid: a204448515d96a945984f59f4465dd9c
+  - enabled: 1
+    path: Assets/Scenes/Sullen Settlement/SS2.unity
+    guid: 60b0a39d11c40a84784b22faaee5b259
+  m_configObjects: {}
